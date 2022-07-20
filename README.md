@@ -25,6 +25,6 @@ Exercise of SE233 Advanced programming Section 702 course.
 ### Armor List  
 | Name | Image | Status | 
 |---|---|---|
-| Shirt | ![Shirt img](./src/main/resources/se233/chapter1/assets/shirt.png) | +30 Defense & +15 Resistance |
-| Armor | ![Armor img](./src/main/resources/se233/chapter1/assets/armor.png) | +50 Defense & +30 Resistance |
-| Veil | ![Apron img](./src/main/resources/se233/chapter1/assets/veil.png) | +80 Defense & +50 Resistance |  
+| Shirt | ![Shirt img](./src/main/resources/se233/chapter1/assets/shirt.png) | +30 Defense / +15 Resistance |
+| Armor | ![Armor img](./src/main/resources/se233/chapter1/assets/armor.png) | +50 Defense / +30 Resistance |
+| Veil | ![Apron img](./src/main/resources/se233/chapter1/assets/veil.png) | +80 Defense / +50 Resistance |  
