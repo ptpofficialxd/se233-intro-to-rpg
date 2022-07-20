@@ -29,3 +29,5 @@ Exercise of SE233 Advanced programming Section 702 course.
 | Shirt | ![Shirt img](./src/main/resources/se233/chapter1/assets/shirt.png) | +30 Defense / +15 Resistance |
 | Armor | ![Armor img](./src/main/resources/se233/chapter1/assets/armor.png) | +50 Defense / +30 Resistance |
 | Veil | ![Veil img](./src/main/resources/se233/chapter1/assets/veil.png) | +80 Defense / +50 Resistance |  
+
+# 642115032 Putthipong Ninwong
