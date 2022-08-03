@@ -1,4 +1,4 @@
-# SE233-INTRO-TO-RPG, Exercise Submission
+# se233-intro-to-rpg, Exercise Submission
 > Written by 642115032 Putthipong Ninwong
 
 > Email: putthipong_ninwong@cmu.ac.th
